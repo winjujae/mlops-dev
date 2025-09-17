@@ -1,0 +1,5 @@
+mlflow.db
+artifacts/
+models/
+__pycache__/
+.pytest_cache/
